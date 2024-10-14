@@ -4,6 +4,11 @@ nim: 2409116062
 kelas: SI B'24
 
 
+
+![minpro2 drawio](https://github.com/user-attachments/assets/f3d4df36-59c8-42fc-bdb4-ef4a719bd5e7)
+
+
+
 # kode program dan input
 ![Screenshot 2024-10-14 194220](https://github.com/user-attachments/assets/6d411a8c-a612-41bd-88b4-1e3a2f230502)
 #fungsinya untuk membuat dan menampilkan tabel dengan rapih
